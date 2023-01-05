@@ -1,0 +1,8 @@
+
+hugo/public/
+.vscode
+*.code-workspace
+.env
+.DS_Store
+.idea
+*.lock
