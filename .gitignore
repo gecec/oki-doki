@@ -6,3 +6,4 @@ hugo/public/
 .DS_Store
 .idea
 *.lock
+resources/
